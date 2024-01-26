@@ -1,9 +1,9 @@
 #!/bin/bash      
 #title           :comments.sh
 #description     :
-#author		     :Mithun Reddy L
-#date            :08112012
-#version         :1.0    
+#author		     :upendra reddy p
+#date            :08112023
+#version         :1.0       
 #usage		     :sh comments.sh
 
 
