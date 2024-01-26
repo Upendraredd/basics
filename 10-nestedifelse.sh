@@ -1,12 +1,10 @@
 #!/bin/bash      
 #title           : 
 #description     :
-#author		     : Mithun Reddy Lacchannagari
-#date            : 08112012
+#author		     : upendra reddy
+#date            : 08112023
 #version         : 2.0   
 #usage		     : sh 
-#CopyRights      : Mithun Technologies
-#Contact         : 9980923226
 
 echo "Nested if else demo starts"
 a=10
