@@ -1,12 +1,12 @@
 #!/bin/bash      
 #title           :
 #description     :
-#author		     :Mithun Reddy L
-#date            :08112012
+#author		     :upendra reddy p
+#date            :08112023
 #version         :1.0    
 #usage		     :
 
-name="Mithun Reddy L"
+name="Upendra Reddy p"
 id=08112012
 
 echo "The name varibale value is: "$name
