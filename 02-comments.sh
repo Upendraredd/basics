@@ -1,8 +1,8 @@
 #!/bin/bash      
 #title           :
 #description     :
-#author		     :Mithun Reddy Lacchannagari
-#date            :08112012
+#author		     :upendra reddy p
+#date            :08112023
 #version         :1.0    
 #usage		     :
 
