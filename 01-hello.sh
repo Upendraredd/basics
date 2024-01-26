@@ -1,12 +1,10 @@
 #!/bin/bash      
-#title           : 
+#title           :
 #description     :
-#author		     :Mithun Reddy Lacchannagari
-#date            :08112012
-#version         :2.0    
-#usage		     :sh hello.sh
-#CopyRights      : Mithun Technologies
-#Contact         : 9980923226
+#author		     :upendra reddy p
+#date            :08112023
+#version         :1.0    
+#usage		     :
 
 echo "Hello Guys"
 echo "Welcome to ShellScript"
